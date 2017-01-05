@@ -10,7 +10,7 @@ SPA是Single Page App的缩写，意思是单页面应用，指的不是本地�
 这一类的框架比较知名的有 AngularJS, Ember.js, ExtJS 还有 facebook 的 React ，国人尤小右开发的 vue.js 。 上面这些都是前端框架，还有一个奇葩就是 meteorjs 。这个是个全栈框架，但是也是用来写 SPA 应用的。
 AngularJS 和 Ember.js 都比较复杂，学习曲线陡峭。 Vue.js 其实和 React 非常像（其实 vue.js 实现很多想法要比 react 还要早，目前 react 大火，所以 vue 的作者很多方面也都在向 react 看齐）。Vue 的好处是简单高效，但是毕竟 react 社区最为火爆，资源最多，同时又比 Angular 和 Ember 容易上手。
 ##三、特点
-速度：更好的用户体验，让用户在web app感受native app的速度和流畅，
-MVC：经典MVC开发模式，前后端各负其责。
-ajax：重前端，业务逻辑全部在本地操作，数据都需要通过AJAX同步、提交。
-路由：在URL中采用#号来作为当前视图的地址,改变#号后的参数，页面并不会重载。
+####速度：更好的用户体验，让用户在web app感受native app的速度和流畅，
+####MVC：经典MVC开发模式，前后端各负其责。
+####ajax：重前端，业务逻辑全部在本地操作，数据都需要通过AJAX同步、提交。
+####路由：在URL中采用#号来作为当前视图的地址,改变#号后的参数，页面并不会重载。
