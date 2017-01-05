@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAiDA,SAAU;ECwMF,OAAO,EAAE,WAAW;EACpB,OAAO,EAAE,YAAY;EACrB,OAAO,EAAE,IAAI;EA4LjB,QAAQ,EAAE,QAAQ;EAElB,GAAG,EAAE,CAAC;EACN,KAAK,EAAE,CAAC;EACR,MAAM,EAAE,CAAC;EACT,IAAI,EAAE,CAAC;EA5FH,iBAAiB,EAAE,MAAM;EAQ7B,mBAAmB,EAVU,MAAM;EAWnC,WAAW,EAXkB,MAAM;EAjB/B,gBAAgB,EAAE,MAAM;EAQ5B,uBAAuB,EAVc,MAAM;EAW3C,eAAe,EAXsB,MAAM",
+"sources": ["yo-align.scss","../core/classes.scss"],
+"names": [],
+"file": "yo-align.css"
+}
